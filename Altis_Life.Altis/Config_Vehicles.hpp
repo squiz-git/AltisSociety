@@ -390,7 +390,7 @@ will modify the virtual space and the price of the vehicle, but other informatio
                 "\a3\soft_f_gamma\Hatchback_01\data\hatchback_01_ext_sport06_co.paa"
             } },
             { "Police", "cop", {
-                "#(ai,64,64,1)Fresnel(1.3,7)"
+                "textures\cop\hatch_cop_sport.jpg"
             } }
         };
     };
@@ -556,8 +556,8 @@ will modify the virtual space and the price of the vehicle, but other informatio
         price = 30000;
         textures[] = {
             { "Black", "cop", {
-                "#(argb,8,8,3)color(0.05,0.05,0.05,1)",
-                "#(argb,8,8,3)color(0.05,0.05,0.05,1)"
+                "textures\cop\hunter_cop_1.jpg",
+                "textures\cop\hunter_cop_2.jpg"
             } }
         };
     };
@@ -579,13 +579,13 @@ will modify the virtual space and the price of the vehicle, but other informatio
         price = 245000;
         textures[] = {
             { "Police", "cop", {
-                "\a3\air_f\Heli_Light_01\Data\heli_light_01_ext_ion_co.paa"
+                "textures\cop\heli_light_cop.jpg"
             } },
             { "Sheriff", "civ", {
                 "\a3\air_f\Heli_Light_01\Data\Skins\heli_light_01_ext_sheriff_co.paa"
             } },
             { "Civ Blue", "civ", {
-                "\a3\air_f\Heli_Light_01\Data\heli_light_01_ext_blue_co.paa"
+                "textures\civ\heli_light_03.jpg"
             } },
             { "Civ Red", "civ", {
                 "\a3\air_f\Heli_Light_01\Data\heli_light_01_ext_co.paa"
