@@ -122,6 +122,7 @@ class Clothing {
         headgear[] = {
             { "NONE", "Remove Hat", 0, { "", "", -1 } },
             { "H_Cap_police", "", 25, { "", "", -1 } },
+			{ "H_Beret_blk_POLICE", "", 50, { "life_coplevel", "SCALAR", 2 } },
         };
         goggles[] = {
             { "NONE", "Remove Glasses", 0, { "", "", -1 } },
