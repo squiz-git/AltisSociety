@@ -11,6 +11,6 @@ StartProgress = false;
 [] execVM "KRON_Strings.sqf";
 
 player execVM "scripts\simpleEP.sqf";
-player execVM "scripts\fn_IntroCam.sqf.sqf";
+player execVM "scripts\fn_IntroCam.sqf";
 
 StartProgress = true;
